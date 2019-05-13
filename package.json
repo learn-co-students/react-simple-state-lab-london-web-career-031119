@@ -11,6 +11,9 @@
     ]
   },
   "dependencies": {
+    "audit": "0.0.6",
+    "fix": "0.0.6",
+    "learn-browser": "^0.1.24",
     "mocha-multi": "^1.0.1",
     "react": "^16.4.1",
     "react-dom": "^16.4.1",
