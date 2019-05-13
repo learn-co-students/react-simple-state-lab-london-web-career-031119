@@ -18,9 +18,7 @@ export default class Cell extends Component {
         style={{ backgroundColor: this.state.color }}
         onClick={this.handleClickEvent}
         className="cell"
-      >
-        .
-      </div>
+      />
     );
   }
 }
